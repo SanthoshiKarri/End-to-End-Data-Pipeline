@@ -7,7 +7,7 @@ set -euo pipefail
 : "${GH_TOKEN:?Environment variable GH_TOKEN must be set}"
 
 # The URL of your GitHub Packages NuGet feed
-FEED_URL="https://nuget.pkg.github.com/hoangsonww/index.json"
+FEED_URL="https://nuget.pkg.github.com/SanthoshiKarri/index.json"
 
 # Path to the .NET project
 PROJECT_DIR="src/DataPipelineApi"
@@ -32,4 +32,4 @@ docker run --rm \
     --api-key $GH_TOKEN \
     --skip-duplicate'
 
-echo "✅ Done! Your package should now be visible at https://github.com/hoangsonww/End-to-End-Data-Pipeline/packages"
+echo "✅ Done! Your package should now be visible at https://github.com/SanthoshiKarri/End-to-End-Data-Pipeline/packages"

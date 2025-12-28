@@ -48,7 +48,7 @@ cat > "$BASE/appsettings.json" << 'EOF'
     "TrackingUri": "http://mlflow:5000"
   },
   "GitHub": {
-    "ActionsApi": "https://api.github.com/repos/hoangsonww/data-pipeline-api/actions/workflows",
+    "ActionsApi": "https://api.github.com/repos/SanthoshiKarri/data-pipeline-api/actions/workflows",
     "Token": ""
   }
 }

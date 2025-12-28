@@ -446,7 +446,7 @@ end-to-end-pipeline/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/hoangsonww/End-to-End-Data-Pipeline.git
+   git clone https://github.com/SanthoshiKarri/End-to-End-Data-Pipeline.git
    cd End-to-End-Data-Pipeline
    ```
 
@@ -656,6 +656,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-Thanks for reading! If you found this repository helpful, please star it and share it with others. For questions, feedback, or suggestions, feel free to reach out to me on [GitHub](https://github.com/hoangsonww).
+Thanks for reading! If you found this repository helpful, please star it and share it with others. For questions, feedback, or suggestions, feel free to reach out to me on [GitHub](https://github.com/SanthoshiKarri).
 
 [**⬆️ Back to top**](#end-to-end-data-pipeline-with-batch--streaming-processing)
